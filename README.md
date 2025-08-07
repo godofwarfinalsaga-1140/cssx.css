@@ -1,4 +1,4 @@
-# cssx.css
+
 body {
             font-family: 'Inter', sans-serif;
             scroll-behavior: smooth;
